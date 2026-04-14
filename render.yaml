@@ -20,4 +20,3 @@ services:
       - key: RSSHUB_URL
       - key: DATABASE_URL
         sync: false
-        value: https://rsshub.app
